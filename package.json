@@ -1,0 +1,25 @@
+{
+  "name": "astro-simple-llm-ingest",
+  "version": "0.1.0",
+  "description": "A simple Astro plugin to make documentation LLM-ready by extracting plain text from docs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"No build step required\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ipindadodev/astro-simple-llm-ingest.git"
+  },
+  "keywords": [
+    "llm",
+    "astro",
+    "starlight",
+    "docs",
+    "ia",
+    "plugin"
+  ],
+  "author": "Ignacio Pindado Letamendía",
+  "license": "MIT",
+  "type": "module"
+}
