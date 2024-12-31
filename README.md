@@ -88,5 +88,3 @@ Este archivo contiene guías técnicas para ingenieros...
 
 ## 📝 Licencia
 Este proyecto está licenciado bajo la licencia MIT. Consulta el archivo LICENSE para más información.
-
-```
